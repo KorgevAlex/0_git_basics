@@ -2,6 +2,6 @@
 """
 Редактор Spyder
 
-Это временный скриптовый файл.
+Временный скрипт-файл.
 """
-print("Hello world")
+print("Hello everyone")
